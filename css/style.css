@@ -1,0 +1,10 @@
+body{
+	font-family: "Open Sans";
+	margin-top: 15%;
+	text-align: center;
+	color: #fff;
+}
+#time{
+	font-weight: 300;
+	font-size: 120px;
+}
